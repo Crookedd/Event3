@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Event3</string>
+    <string name="black_color_b">Черный текст</string>
+    <string name="red_color_b">Красный текст</string>
+    <string name="size_8sp">Размер - 8sp</string>
+    <string name="size_24sp">Размер - 24sp</string>
+    <string name="white_back">Белый фон</string>
+    <string name="yellow_back">Желтый фон</string>
+
+</resources>
